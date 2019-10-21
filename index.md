@@ -1,4 +1,4 @@
-# #HHP Awesome List
+<! -- # #HHP Awesome List -->
 
 <!-- ![Gravity Falls](images/gf.jpg) -->
 
