@@ -1,5 +1,3 @@
-<! -- # #HHP Awesome List -->
-
 <!-- ![Gravity Falls](images/gf.jpg) -->
 
 * Gravity Falls
