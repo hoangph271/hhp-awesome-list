@@ -3,6 +3,7 @@
 <!-- ![Gravity Falls](images/gf.jpg) -->
 
 * Gravity Falls
+* Avatar: The last Airbender
 
 * [Maroon 5](https://open.spotify.com/playlist/7Ct8ZjDAA2uMQil6DbE3XW)
     * She will be loved
