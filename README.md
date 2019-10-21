@@ -27,4 +27,6 @@
     * Give you what you like
     * I'm with you
 
+* JavaScript, yeah...! 😈
+
 * [React with Hooks](https://reactjs.org/) - Much easier
