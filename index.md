@@ -1,30 +1,43 @@
-<!-- ![Gravity Falls](images/gf.jpg) -->
+<details>
+    <summary>Movies and series</summary>
 
-* Gravity Falls
+    <!-- ![Gravity Falls](images/gf.jpg) -->
 
-* Avatar: The last Airbender
+    * Gravity Falls
 
-* The Great Gatsby
+    * Avatar: The last Airbender
 
-* [Kung Fury](https://www.youtube.com/watch?v=bS5P_LAqiVg)
-    * #VHS
-    * #Converse
-    * #Synthwave
+    * The Great Gatsby
 
-* [Maroon 5](https://open.spotify.com/playlist/7Ct8ZjDAA2uMQil6DbE3XW)
-    * She will be loved
-    * Sunday morning
-    * Makes me wonder
-    * Won't go home without you
-    * Misery
-    * Never gonna leave this bed
+    * [Kung Fury](https://www.youtube.com/watch?v=bS5P_LAqiVg)
+        * #VHS
+        * #Converse
+        * #Synthwave
 
-* [Avril Lavigne](https://open.spotify.com/playlist/54tKcQFWy0mkS2EWuQt7mi)
-    * Complicated
-    * Sk8er boi
-    * Give you what you like
-    * I'm with you
+</details>
 
-* JavaScript, yeah...! 😈
+<details>
+    <summary>Music & artists</summary>
 
-* [React with Hooks](https://reactjs.org/) - Much easier
+    * [Maroon 5](https://open.spotify.com/playlist/7Ct8ZjDAA2uMQil6DbE3XW)
+        * She will be loved
+        * Sunday morning
+        * Makes me wonder
+        * Won't go home without you
+        * Misery
+        * Never gonna leave this bed
+
+    * [Avril Lavigne](https://open.spotify.com/playlist/54tKcQFWy0mkS2EWuQt7mi)
+        * Complicated
+        * Sk8er boi
+        * Give you what you like
+        * I'm with you
+</details>
+
+<details>
+    <summary>Coding</summary>
+
+    * JavaScript, yeah...! 😈
+
+    * [The new React docs](https://reactjs.org/)
+</details>
